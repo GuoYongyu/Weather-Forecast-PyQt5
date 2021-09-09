@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.jpg</file>
+	<file>image/sunny.png</file>
+	<file>image/cloudy.png</file>
+	<file>image/overcast.png</file>
+	<file>image/foggy.png</file>
+	<file>image/haze.png</file>
+	<file>image/ice_rain.png</file>
+	<file>image/location.png</file>
+	<file>image/rainy.png</file>
+	<file>image/sleet.png</file>
+	<file>image/snowy.png</file>
+	<file>image/sand.png</file>
+	<file>image/stop.png</file>
+	<file>image/search.jpg</file>
+	<file>music/background.mp3</file>
+    </qresource>
+</RCC>
