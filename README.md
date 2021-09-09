@@ -31,3 +31,6 @@ python版本：python 3.6
   \*\*\*即文件名，.py和.qrc的文件名可以不同
 
   若使用.qrc文件，则必须先转为.py文件，否则.ui生成的.py文件会报错import resource_rc失败
+  
+## 说明
+本项目里未附带resource_rc.py文件，该文件较大，系统无法上传，可利用上述指令在本机生成
